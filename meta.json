@@ -1,0 +1,23 @@
+{
+  "repo": "arnold-renderer-ultimate-edition-2026",
+  "product": "Arnold Renderer Ultimate Edition 2026",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "cad",
+  "topics": [
+    "arnold-renderer",
+    "cpu-gpu-render",
+    "lookdev-lighting",
+    "production-render",
+    "autodesk-arnold",
+    "arnold-setup-failed-fix",
+    "how-to-install-arnold",
+    "arnold-windows",
+    "arnold-desktop-2026",
+    "arnold-desktop-package"
+  ],
+  "site": "toolix.me"
+}
